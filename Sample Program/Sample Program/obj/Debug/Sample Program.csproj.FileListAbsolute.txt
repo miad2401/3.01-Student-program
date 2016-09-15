@@ -1,0 +1,9 @@
+G:\Computer Programming\Sample Program\Sample Program\bin\Debug\Sample Program.exe.config
+G:\Computer Programming\Sample Program\Sample Program\bin\Debug\Sample Program.exe
+G:\Computer Programming\Sample Program\Sample Program\bin\Debug\Sample Program.pdb
+G:\Computer Programming\Sample Program\Sample Program\obj\Debug\Sample Program.csprojResolveAssemblyReference.cache
+G:\Computer Programming\Sample Program\Sample Program\obj\Debug\Sample_Program.Form1.resources
+G:\Computer Programming\Sample Program\Sample Program\obj\Debug\Sample_Program.Properties.Resources.resources
+G:\Computer Programming\Sample Program\Sample Program\obj\Debug\Sample Program.csproj.GenerateResource.Cache
+G:\Computer Programming\Sample Program\Sample Program\obj\Debug\Sample Program.exe
+G:\Computer Programming\Sample Program\Sample Program\obj\Debug\Sample Program.pdb
